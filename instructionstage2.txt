@@ -1,0 +1,6 @@
+Congratulations you have successfully entered in stable lower orbit.
+
+	1)To escape the gravitational pull of earth please accelerate your velocity to aproximately 11000m/s.
+	2)To accelarate your space vehicle please press continuous'w' and press 's' stop accelaration.
+	3)make sure that once main engine is stopped it won't ignite again.
+	4)Type 'r' to release the extra thrusters and continue your journey to Mars.   

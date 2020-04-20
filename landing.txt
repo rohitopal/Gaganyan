@@ -1,0 +1,13 @@
+									LANDING SEQUENCE IS NOW INTIATED
+       INSTRUCTION:
+		1)Make sure you decelate the vehicle to less than 5021.09m/s.
+		2)Decelarate the vehicle by pressing continuous 's' key and press 'w' to stop engines.
+		2)for succesful landing reduce the velocity to enter smallest possible orbit above 5000m from the 
+		  surface of mars.
+		3)Once entered in a stable orbit release the lander probe where the astronauts are placed.
+			a)if the velocity while moving to earth increases to the heat shield might fail resulting
+			  in an explosion.
+		4)Open the parechute to reduce the speed of impact to the ground.
+			a)if the velocity is while landing greater than 10m/s then the probe will be damaged causing
+			  failure of mission.
+			
